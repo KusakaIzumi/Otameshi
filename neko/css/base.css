@@ -1,0 +1,97 @@
+@charset "utf-8"
+
+
+body{
+	margin: 0;
+  padding: 0;
+}
+
+.header{
+  margin: 0px;
+  width: 100%;
+  padding-top: 5%;
+  opacity: 0.8;
+  background-color: #000033;
+  color: white;
+}
+
+.main{
+  max-width:80%;
+  padding-top: 50%;
+  position: relative;
+  background-color: white;
+  margin: 30px auto;
+  border-style: ridge;
+  border-color: #FFCC66;
+  border-width: 30px;
+}
+
+.information{
+  max-width: 100%;
+  height: 850px;
+  opacity: 0.8;
+  background-color: #000033;
+}
+
+
+
+.bar{
+  width: 40%;
+  float: left;
+}
+
+
+#prof{
+  width: 88%;
+  padding-top:25%;
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+
+}
+
+#saku{
+  width: 50%;
+  padding-top: 15%;
+  background-color: white;
+  margin-left: 20px;
+  mARGIN-bottom:30PX;
+}
+
+#sonota{
+  width: 70%;
+  padding-top: 20%;
+  background-color: white;
+  margin-left: 20px;
+}
+
+.news{
+  clear: both;
+  width: 85%;
+  padding-top: 100%;
+  background-color: white;
+  margin-left: 20px;
+  margin-top: 30px;
+  border-style: dashed;
+  border-color: blue;
+}
+
+.page{
+  width: 50%;
+  padding-top: 80%;
+  background-color: white;
+  float: right;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+
+.footer{
+  clear: both;
+  width: 100%;
+  padding-top: 20%;
+  opacity: 0.8;
+  background-color: #FF5192;
+  color: white;
+}
