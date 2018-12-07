@@ -1,0 +1,341 @@
+div {
+  margin :0px 350px;
+}
+
+.four .square{
+  color: #fff;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-left: 0px;
+  width: 200px;
+  height: 1015px;
+  background-color: #fe9fab;
+  text-align: center;
+}
+
+p1{
+  position: relative;
+  top: 45%;
+  transform: translateY(-50%);
+  letter-spacing: 5px;
+}
+
+p2{
+  position: relative;
+  top: 43%;
+  margin-top: -10px;
+  transform: translateY(-50%);
+  letter-spacing: 10px;
+}
+
+.four .triangle{
+  /*gray member1*/
+  margin-left: 205px;
+  margin-top: -1015px;
+  border-top: 213px solid gray;
+  border-right: 213px solid transparent;
+  border-bottom: 213px solid transparent;
+  border-left: 213px solid gray;
+  width: 0px;
+}
+
+.four .triangle1{
+  /*pink top*/
+  margin-left:212px;
+  margin-top: -213px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-bottom: 213px solid #fe9fab;
+  border-left: 213px solid transparent;
+  border-right: 213px solid transparent;
+}
+
+.four .triangle2{
+  /*member2*/
+  margin-left:215px;
+  margin-top: -426px;
+  width: 255px;
+  height: 0px;
+  background: transparent;
+  border-top: 213px solid transparent;
+  border-right: 213px solid gray;
+  border-bottom: 213px solid transparent;
+}
+
+.four .triangle3{
+  /*gray member3*/
+  margin-left:212px;
+  margin-top: 10px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 250px solid gray;
+  border-right: 250px solid transparent;
+  border-left: 250px solid transparent;
+}
+
+.four .triangle4{
+  /*pink left*/
+  margin-left:205px;
+  margin-top: -250px;
+  width: 0px;
+  height: 0px;
+  border-top: 250px solid transparent;
+  border-bottom: 250px solid transparent;
+  border-left: 250px solid #fe9fab;
+}
+
+.four .triangle5{
+  /*pink right*/
+  margin-left:220px;
+  margin-top: -500px;
+  width: 250px;
+  height: 0px;
+  background: transparent;
+  border-top: 250px solid transparent;
+  border-right: 250px solid #fe9fab;
+  border-bottom: 250px solid transparent;
+}
+
+.four .triangle6{
+  /*gray member4*/
+  margin-left:212px;
+  margin-top: -250px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-bottom: 250px solid gray;
+  border-left: 250px solid transparent;
+  border-right: 250px solid transparent;
+}
+
+.three .square{
+  color: #fff;
+  font-size: 40px;
+  margin-top: 5px;
+  margin-left: 520px;
+  width: 200px;
+  height: 510px;
+  background-color: #b5e685;
+  text-align: center;
+}
+
+.three .triangle{
+  margin-left: 4px;
+  margin-top: -510px;
+  border-top: 255px solid gray;
+  border-right: 255px solid gray;
+  border-bottom: 255px solid transparent;
+  border-left: 255px solid transparent;
+}
+
+.three .triangle1{
+  margin-left:0px;
+  margin-top: -500px;
+  width: 0px;
+  height: 0px;
+  border-top: 250px solid transparent;
+  border-bottom: 250px solid transparent;
+  border-left: 250px solid #b5e685;
+}
+
+.three .triangle2{
+  margin-left:9px;
+  margin-top: -245px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-bottom: 245px solid gray;
+  border-left: 245px solid transparent;
+  border-right: 245px solid transparent;
+}
+
+.two .square{
+  color: #fff;
+  font-size: 40px;
+  margin-top: 5px;
+  margin-left: 0px;
+  width: 200px;
+  height: 1025px;
+  background-color: #71cdf1;
+  text-align: center;
+}
+
+.two .triangle{
+  margin-left:205px;
+  margin-top: -1020px;
+  width: 0px;
+  height: 0px;
+  border-top: 255px solid transparent;
+  border-right: 255px solid transparent;
+  border-bottom: 255px solid gray;
+  border-left: 255px solid gray;
+}
+
+.two .triangle1{
+  margin-left:210px;
+  margin-top: -515px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 255px solid #71cdf1;
+  border-right: 255px solid transparent;
+  border-left: 255px solid transparent;
+}
+
+.two .triangle2{
+  margin-left:220px;
+  margin-top: -245px;
+  width: 250px;
+  height: 0px;
+  background: transparent;
+  border-top: 250px solid transparent;
+  border-right: 250px solid gray;
+  border-bottom: 250px solid transparent;
+}
+
+.two .triangle3{
+  margin-left: 210px;
+  margin-top: 10px;
+  border-top: 255px solid gray;
+  border-right: 255px solid gray;
+  border-bottom: 255px solid transparent;
+  border-left: 255px solid transparent;
+}
+
+.two .triangle4{
+  margin-left:205px;
+  margin-top: -503px;
+  width: 0px;
+  height: 0px;
+  border-top: 250px solid transparent;
+  border-bottom: 250px solid transparent;
+  border-left: 250px solid gray;
+}
+
+.two .triangle5{
+  margin-left:215px;
+  margin-top: -245px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-bottom: 245px solid gray;
+  border-left: 245px solid transparent;
+  border-right: 245px solid transparent;
+}
+
+.one .square{
+  color: #fff;
+  font-size: 40px;
+  margin-top: 5px;
+  margin-left: 520px;
+  width: 200px;
+  height: 500px;
+  background-color: #FFB751;
+  text-align: center;
+}
+
+.one .triangle{
+  /*gray member3*/
+  margin-left:7px;
+  margin-top: -500px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 250px solid gray;
+  border-right: 250px solid transparent;
+  border-left: 250px solid transparent;
+}
+
+.one .triangle1{
+  /*pink left*/
+  margin-left:0px;
+  margin-top: -250px;
+  width: 0px;
+  height: 0px;
+  border-top: 250px solid transparent;
+  border-bottom: 250px solid transparent;
+  border-left: 250px solid gray;
+}
+
+.one .triangle2{
+  /*pink right*/
+  margin-left:15px;
+  margin-top: -500px;
+  width: 250px;
+  height: 0px;
+  background: transparent;
+  border-top: 250px solid transparent;
+  border-right: 250px solid #FFB751;
+  border-bottom: 250px solid transparent;
+}
+
+.one .triangle3{
+  margin-left:7px;
+  margin-top: -250px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-bottom: 250px solid gray;
+  border-left: 250px solid transparent;
+  border-right: 250px solid transparent;
+}
+
+.adviser .square{
+  color: #fff;
+  font-size:40px;
+  margin-top: 5px;
+  margin-left: 0px;
+  width: 200px;
+  height: 500px;
+  background-color: #cab3fe;
+  text-align: center;
+}
+
+.adviser .triangle{
+  /*gray member3*/
+  margin-left:212px;
+  margin-top: -500px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-top: 250px solid #cab3fe;
+  border-right: 250px solid transparent;
+  border-left: 250px solid transparent;
+}
+
+.adviser .triangle1{
+  /*pink left*/
+  margin-left:205px;
+  margin-top: -250px;
+  width: 0px;
+  height: 0px;
+  border-top: 250px solid transparent;
+  border-bottom: 250px solid transparent;
+  border-left: 250px solid gray;
+}
+
+.adviser .triangle2{
+  /*pink right*/
+  margin-left:220px;
+  margin-top: -500px;
+  width: 250px;
+  height: 0px;
+  background: transparent;
+  border-top: 250px solid transparent;
+  border-right: 250px solid gray;
+  border-bottom: 250px solid transparent;
+}
+
+.adviser .triangle3{
+  /*gray member4*/
+  margin-left:212px;
+  margin-top: -250px;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+  border-bottom: 250px solid #cab3fe;
+  border-left: 250px solid transparent;
+  border-right: 250px solid transparent;
+}
