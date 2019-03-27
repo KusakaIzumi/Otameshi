@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.4)  26 MAR 2019 10:59
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.4)  27 MAR 2019 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -185,12 +185,15 @@ Package: mediabb 2013/03/12 v1.10 iNOUE Koich! <inoue@ma.ns.tcu.ac.jp>
 (./02/02nimotu_hannyu.aux) (./03/03senkentai.aux) (./04/04uketuke.aux)
 (./05/05kokentai.aux) (./06/06bus_iki.aux) (./07/07hata_totyaku.aux)
 (./08/08nyusyosiki_kyoinsyokai.aux) (./09/09yagaisuiji.aux) (./10/10nyuyoku.aux
-) (./11/11utage.aux) (./12/12zenjitu_junbi.aux) (./13/13hone_talk.aux)
+) (./11/11utage.aux) (./12/12zenjitu_junbi.aux)
+No file ./13/13hone_talk.aux.
 (./14/14utiawase.aux) (./15/15syushin.aux) (./16/16kisyo.aux)
 (./17/17asanotudoi.aux) (./18/18tyosyoku.aux) (./19/19tyosyokugonougoki.aux)
-(./10/20.aux) (./21/21ice_breaking.aux) (./22/22tsumutsumu.aux) (./23/23.aux)
-(./24/24hyosyosiki_taisyosiki.aux) (./25/25tyusyoku.aux) (./26/26bus_kaeri.aux)
-(./27/27kataduke.aux) (./28/28daigaku_totyakugo.aux))
+(./10/20.aux)
+No file ./21/21ice_breaking.aux.
+No file ./22/22tsumutsumu.aux.
+(./23/23.aux) (./24/24hyosyosiki_taisyosiki.aux) (./25/25tyusyoku.aux)
+(./26/26bus_kaeri.aux) (./27/27kataduke.aux) (./28/28daigaku_totyakugo.aux))
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -396,77 +399,42 @@ File: ./09/yagaisuiji.eps Graphic file (type eps)
 [48]
 \openout2 = `./13/13hone_talk.aux'.
 
- (./13/13hone_talk.tex) [49
 
-
-]
+No file ./13/13hone_talk.tex.
 \openout2 = `./14/14utiawase.aux'.
 
- (./14/14utiawase.tex) [50
+(./14/14utiawase.tex) [49
+
+
 
 
 ]
 \openout2 = `./15/15syushin.aux'.
 
- (./15/15syushin.tex [51
+ (./15/15syushin.tex [50
 
 
-]) [52]
+]) [51]
 \openout2 = `./16/16kisyo.aux'.
 
- (./16/16kisyo.tex [53
+ (./16/16kisyo.tex
+[52
 
 
 ]
 File: ./16/futon_katazuke.eps Graphic file (type eps)
- <./16/futon_katazuke.eps>) [54
+ <./16/futon_katazuke.eps>) [53
 
 ]
 \openout2 = `./17/17asanotudoi.aux'.
 
-
-(./17/17asanotudoi.tex
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
-[]|  \OMS/cmsy/m/n/10 ^^O  \JY1/mc/m/n/10 その他のスタ ッ フは正面広間に到着後 
-， 誘導係
- []
+ (./17/17asanotudoi.tex [54
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 28--28
-\OT1/cmr/m/n/10 (???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1
-/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/
-m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/1
-0 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???)\JY1/mc/m/n/10 ， 整列係 \OT1/cmr/m/
-n/10 (???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???) \JY1/mc/m/n/10 の指示に従 っ て
-新
- []
-
-[55
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
-[]|  \OMS/cmsy/m/n/10 ^^O  \JY1/mc/m/n/10 その他のスタ ッ フは大研修室に到着後 
-， 誘導係
- []
-
-
-Underfull \hbox (badness 8113) in paragraph at lines 58--58
-\OT1/cmr/m/n/10 (???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1
-/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/
-m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/1
-0 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???)\JY1/mc/m/n/10 ， 整列係 \OT1/cmr/m/
-n/10 (???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???) \JY1/mc/m/n/10 の指示に従 っ て
-新
- []
-
-
-Overfull \vbox (6.74593pt too high) has occurred while \output is active []
-
-
-[56]
+] [55]
 File: ./17/asanotudoihaiti.eps Graphic file (type eps)
- <./17/asanotudoihaiti.eps>
+
+<./17/asanotudoihaiti.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -475,10 +443,10 @@ File: ./17/asanozu.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [57] [58]
+) [56] [57]
 \openout2 = `./18/18tyosyoku.aux'.
 
- (./18/18tyosyoku.tex) [59
+ (./18/18tyosyoku.tex) [58
 
 
 ]
@@ -508,83 +476,79 @@ m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/
 にしおりと筆記用
  []
 
-[60
+
+LaTeX Warning: Reference `fig:ice' on page 59 undefined on input line 47.
+
+[59
 
 
-] [61]
+] [60]
 File: ./19/Eventhanwake.eps Graphic file (type eps)
  <./19/Eventhanwake.eps>
 File: ./19/nimotu2.eps Graphic file (type eps)
- <./19/nimotu2.eps>) [62]
+ <./19/nimotu2.eps>) [61]
 \openout2 = `./10/20.aux'.
 
 
 No file ./10/20.tex.
 \openout2 = `./21/21ice_breaking.aux'.
 
-(./21/21ice_breaking.tex
-File: ./21/ice.eps Graphic file (type eps)
- <./21/ice.eps> [63
-
-
-
-
-]) [64]
+No file ./21/21ice_breaking.tex.
 \openout2 = `./22/22tsumutsumu.aux'.
 
- (./22/22tsumutsumu.tex
-[65
-
-
-] [66]
-File: ./22/ice.eps Graphic file (type eps)
- <./22/ice.eps> [67]) [68]
+No file ./22/22tsumutsumu.tex.
 \openout2 = `./23/23.aux'.
 
- (./23/23.tex
+(./23/23.tex
 File: ./23/tudoi.eps Graphic file (type eps)
- <./23/tudoi.eps> [69
+ <./23/tudoi.eps> [62
 
 
-])
-[70]
+
+
+
+
+
+
+]) [63]
 \openout2 = `./24/24hyosyosiki_taisyosiki.aux'.
 
- (./24/24hyosyosiki_taisyosiki.tex [71
+ (./24/24hyosyosiki_taisyosiki.tex
+[64
 
 
 ]
 File: ./24/hyosyosiki_taisyosiki.eps Graphic file (type eps)
- <./24/hyosyosiki_taisyosiki.eps>)
-[72]
+ <./24/hyosyosiki_taisyosiki.eps>) [65]
 \openout2 = `./25/25tyusyoku.aux'.
 
- (./25/25tyusyoku.tex [73
+ (./25/25tyusyoku.tex [66
 
 
-]) [74]
+]) [67]
 \openout2 = `./26/26bus_kaeri.aux'.
 
- (./26/26bus_kaeri.tex [75
+
+(./26/26bus_kaeri.tex [68
 
 
-]) [76]
+]) [69]
 \openout2 = `./27/27kataduke.aux'.
 
-
-(./27/27kataduke.tex
+ (./27/27kataduke.tex
 File: ./27/syomenhiromacar.eps Graphic file (type eps)
- <./27/syomenhiromacar.eps>
+
+<./27/syomenhiromacar.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [77
+) [70
 
 
-] [78]
+] [71]
 \openout2 = `./28/28daigaku_totyakugo.aux'.
 
- (./28/28daigaku_totyakugo.tex) [79
+ (./28/28daigaku_totyakugo.tex) [72
 
 
 ]
@@ -605,14 +569,17 @@ See the caption package documentation for explanation.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 2624 strings out of 493653
- 41317 string characters out of 6148875
- 126128 words of memory out of 5000000
- 5963 multiletter control sequences out of 15000+600000
+ 2605 strings out of 493653
+ 40954 string characters out of 6148875
+ 124940 words of memory out of 5000000
+ 5957 multiletter control sequences out of 15000+600000
  11583 words of font info for 47 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 38i,12n,41p,480b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,12n,41p,384b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on document.dvi (79 pages, 238876 bytes).
+Output written on document.dvi (72 pages, 223708 bytes).
