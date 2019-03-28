@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.4)  27 MAR 2019 19:22
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.4)  28 MAR 2019 09:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -185,15 +185,12 @@ Package: mediabb 2013/03/12 v1.10 iNOUE Koich! <inoue@ma.ns.tcu.ac.jp>
 (./02/02nimotu_hannyu.aux) (./03/03senkentai.aux) (./04/04uketuke.aux)
 (./05/05kokentai.aux) (./06/06bus_iki.aux) (./07/07hata_totyaku.aux)
 (./08/08nyusyosiki_kyoinsyokai.aux) (./09/09yagaisuiji.aux) (./10/10nyuyoku.aux
-) (./11/11utage.aux) (./12/12zenjitu_junbi.aux)
-No file ./13/13hone_talk.aux.
+) (./11/11utage.aux) (./12/12zenjitu_junbi.aux) (./13/13honne.aux)
 (./14/14utiawase.aux) (./15/15syushin.aux) (./16/16kisyo.aux)
 (./17/17asanotudoi.aux) (./18/18tyosyoku.aux) (./19/19tyosyokugonougoki.aux)
-(./10/20.aux)
-No file ./21/21ice_breaking.aux.
-No file ./22/22tsumutsumu.aux.
-(./23/23.aux) (./24/24hyosyosiki_taisyosiki.aux) (./25/25tyusyoku.aux)
-(./26/26bus_kaeri.aux) (./27/27kataduke.aux) (./28/28daigaku_totyakugo.aux))
+(./10/20.aux) (./21/21ice_breaking.aux) (./22/22tsumutsumu.aux) (./23/23.aux)
+(./24/24hyosyosiki_taisyosiki.aux) (./25/25tyusyoku.aux) (./26/26bus_kaeri.aux)
+(./27/27kataduke.aux) (./28/28daigaku_totyakugo.aux))
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -249,7 +246,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 
-LaTeX Warning: Reference `fig:bus_memberHaichi1' on page 27 undefined on input 
+LaTeX Warning: Reference `fig:bus_memberHaichi1' on page 25 undefined on input 
 line 42.
 
 [3] [4] [5])
@@ -260,16 +257,16 @@ line 42.
 \openout2 = `./01/01tojitu_junbi.aux'.
 
  (./01/01tojitu_junbi.tex
-Overfull \hbox (1.68916pt too wide) in paragraph at lines 28--28
+Overfull \hbox (1.68916pt too wide) in paragraph at lines 26--26
 []|$\OMS/cmsy/m/n/10 ^^X$\OT1/cmr/m/n/10 06:00| 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
 ) [7
 
 ] [8]
@@ -282,128 +279,117 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 ]
 \openout2 = `./03/03senkentai.aux'.
 
- (./03/03senkentai.tex [10
+ (./03/03senkentai.tex
+
+LaTeX Warning: Reference `fig:ame' on page 10 undefined on input line 73.
+
+[10
 
 
 ]
-File: ./03/nimotu.eps Graphic file (type eps)
- <./03/nimotu.eps>
-[11] [12]
+File: ./03/nimotsu.eps Graphic file (type eps)
+ <./03/nimotsu.eps> [11]
 File: ./03/situ.eps Graphic file (type eps)
  <./03/situ.eps>
-File: ./03/nyushosiki.eps Graphic file (type eps)
- <./03/nyushosiki.eps> [13]
-File: ./03/yuudou.eps Graphic file (type eps)
- <./03/yuudou.eps>
-File: ./03/yuudou2.eps Graphic file (type eps)
+Overfull \hbox (56.93529pt too wide) in paragraph at lines 139--141
+ [] 
+ []
 
-<./03/yuudou2.eps> [14]) [15]
+File: ./03/nyushoshiki.eps Graphic file (type eps)
+<./03/nyushoshiki.eps> [12]
+File: ./03/yuudou.eps Graphic file (type eps)
+ <./03/yuudou.eps> [13]) [14]
 \openout2 = `./04/04uketuke.aux'.
 
- (./04/04uketuke.tex [16
+ (./04/04uketuke.tex
+[15
 
 
-] [17] [18] [19] [20]
+] [16] [17] [18] [19]
 File: ./04/bus_memberHaichi2.eps Graphic file (type eps)
+ <./04/bus_memberHaichi2.eps>
+File: ./04/uketsuke_k101Haichi.eps Graphic file (type eps)
 
-<./04/bus_memberHaichi2.eps>
-File: ./04/uketsuke_k202Haichi.eps Graphic file (type eps)
- <./04/uketsuke_k202Haichi.eps>
-File: ./04/uketsuke_k203Haichi.eps Graphic file (type eps)
-
-<./04/uketsuke_k203Haichi.eps> [21] [22]) [23]
+<./04/uketsuke_k101Haichi.eps> [20] [21]) [22]
 \openout2 = `./05/05kokentai.aux'.
 
- (./05/05kokentai.tex) [24
+ (./05/05kokentai.tex) [23
 
 
 ]
 \openout2 = `./06/06bus_iki.aux'.
 
 
-(./06/06bus_iki.tex
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
-\JY1/mc/m/n/10 能性
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
-\JY1/mc/m/n/10 あり
- []
-
-[25
-
-
-] [26]
-
-LaTeX Warning: Reference `fig:bus_memberHaichi1' on page 27 undefined on input 
-line 118.
-
-File: ./06/baggage_place_1.eps Graphic file (type eps)
-<./06/baggage_place_1.eps>
-File: ./06/baggage_place_2.eps Graphic file (type eps)
- <./06/baggage_place_2.eps>
-Overfull \hbox (15.33334pt too wide) in paragraph at lines 140--155
-[][] 
- []
-
-[27]) [28]
-\openout2 = `./07/07hata_totyaku.aux'.
-
- (./07/07hata_totyaku.tex [29
-
-
-] [30]) [31]
-\openout2 = `./08/08nyusyosiki_kyoinsyokai.aux'.
-
-
-(./08/08nyusyosiki_kyoinsyokai.tex [32
+(./06/06bus_iki.tex [24
 
 
 ]
-File: ./08/nakayosihiroma_nyusyosiki.eps Graphic file (type eps)
- <./08/nakayosihiroma_nyusyosiki.eps>
-[33]) [34
+
+LaTeX Warning: Reference `fig:bus_memberHaichi1' on page 25 undefined on input 
+line 81.
+
+File: ./06/baggage_place_1.eps Graphic file (type eps)
+<./06/baggage_place_1.eps>
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 103--111
+[][] 
+ []
+
+[25]) [26]
+\openout2 = `./07/07hata_totyaku.aux'.
+
+ (./07/07hata_totyaku.tex [27
+
+
+] [28]) [29]
+\openout2 = `./08/08nyusyosiki_kyoinsyokai.aux'.
+
+
+(./08/08nyusyosiki_kyoinsyokai.tex [30
+
+
+]
+File: ./08/nyushoshiki.eps Graphic file (type eps)
+ <./08/nyushoshiki.eps> [31]) [32
 
 ]
 \openout2 = `./09/09yagaisuiji.aux'.
 
- (./09/09yagaisuiji.tex [35
+
+(./09/09yagaisuiji.tex [33
 
 
-] [36]
+] [34]
 File: ./09/yagaisuijihanwake.eps Graphic file (type eps)
- <./09/yagaisuijihanwake.eps>
-[37] [38]
+ <./09/yagaisuijihanwake.eps> [35] [36]
 File: ./09/yagaisuiji.eps Graphic file (type eps)
- <./09/yagaisuiji.eps> [39] [40]) [41]
+
+<./09/yagaisuiji.eps> [37] [38]) [39]
 \openout2 = `./10/10nyuyoku.aux'.
 
- (./10/10nyuyoku.tex [42
+ (./10/10nyuyoku.tex [40
 
 
-]
-[43]) [44]
+] [41]) [42]
 \openout2 = `./11/11utage.aux'.
 
- (./11/11utage.tex [45
+
+(./11/11utage.tex [43
+
+
+]) [44]
+\openout2 = `./12/12zenjitu_junbi.aux'.
+
+ (./12/12zenjitu_junbi.tex [45
 
 
 ]) [46]
-\openout2 = `./12/12zenjitu_junbi.aux'.
-
- (./12/12zenjitu_junbi.tex [47
+\openout2 = `./13/13honne.aux'.
 
 
-])
-[48]
-\openout2 = `./13/13hone_talk.aux'.
-
-
-No file ./13/13hone_talk.tex.
+No file ./13/13honne.tex.
 \openout2 = `./14/14utiawase.aux'.
 
-(./14/14utiawase.tex) [49
+(./14/14utiawase.tex) [47
 
 
 
@@ -411,27 +397,27 @@ No file ./13/13hone_talk.tex.
 ]
 \openout2 = `./15/15syushin.aux'.
 
- (./15/15syushin.tex [50
+ (./15/15syushin.tex [48
 
 
-]) [51]
+]) [49]
 \openout2 = `./16/16kisyo.aux'.
 
  (./16/16kisyo.tex
-[52
+[50
 
 
 ]
 File: ./16/futon_katazuke.eps Graphic file (type eps)
- <./16/futon_katazuke.eps>) [53
+ <./16/futon_katazuke.eps>) [51
 
 ]
 \openout2 = `./17/17asanotudoi.aux'.
 
- (./17/17asanotudoi.tex [54
+ (./17/17asanotudoi.tex [52
 
 
-] [55]
+] [53]
 File: ./17/asanotudoihaiti.eps Graphic file (type eps)
 
 <./17/asanotudoihaiti.eps>
@@ -443,10 +429,10 @@ File: ./17/asanozu.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [56] [57]
+) [54] [55]
 \openout2 = `./18/18tyosyoku.aux'.
 
- (./18/18tyosyoku.tex) [58
+ (./18/18tyosyoku.tex) [56
 
 
 ]
@@ -477,16 +463,16 @@ m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/
  []
 
 
-LaTeX Warning: Reference `fig:ice' on page 59 undefined on input line 47.
+LaTeX Warning: Reference `fig:ice' on page 57 undefined on input line 47.
 
-[59
+[57
 
 
-] [60]
+] [58]
 File: ./19/Eventhanwake.eps Graphic file (type eps)
  <./19/Eventhanwake.eps>
 File: ./19/nimotu2.eps Graphic file (type eps)
- <./19/nimotu2.eps>) [61]
+ <./19/nimotu2.eps>) [59]
 \openout2 = `./10/20.aux'.
 
 
@@ -501,7 +487,7 @@ No file ./22/22tsumutsumu.tex.
 
 (./23/23.tex
 File: ./23/tudoi.eps Graphic file (type eps)
- <./23/tudoi.eps> [62
+ <./23/tudoi.eps> [60
 
 
 
@@ -510,29 +496,29 @@ File: ./23/tudoi.eps Graphic file (type eps)
 
 
 
-]) [63]
+]) [61]
 \openout2 = `./24/24hyosyosiki_taisyosiki.aux'.
 
  (./24/24hyosyosiki_taisyosiki.tex
-[64
+[62
 
 
 ]
 File: ./24/hyosyosiki_taisyosiki.eps Graphic file (type eps)
- <./24/hyosyosiki_taisyosiki.eps>) [65]
+ <./24/hyosyosiki_taisyosiki.eps>) [63]
 \openout2 = `./25/25tyusyoku.aux'.
 
- (./25/25tyusyoku.tex [66
+ (./25/25tyusyoku.tex [64
 
 
-]) [67]
+]) [65]
 \openout2 = `./26/26bus_kaeri.aux'.
 
 
-(./26/26bus_kaeri.tex [68
+(./26/26bus_kaeri.tex [66
 
 
-]) [69]
+]) [67]
 \openout2 = `./27/27kataduke.aux'.
 
  (./27/27kataduke.tex
@@ -542,13 +528,13 @@ File: ./27/syomenhiromacar.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [70
+) [68
 
 
-] [71]
+] [69]
 \openout2 = `./28/28daigaku_totyakugo.aux'.
 
- (./28/28daigaku_totyakugo.tex) [72
+ (./28/28daigaku_totyakugo.tex) [70
 
 
 ]
@@ -560,7 +546,7 @@ See the caption package documentation for explanation.
 (./03/03senkentai.aux) (./04/04uketuke.aux) (./05/05kokentai.aux)
 (./06/06bus_iki.aux) (./07/07hata_totyaku.aux)
 (./08/08nyusyosiki_kyoinsyokai.aux) (./09/09yagaisuiji.aux) (./10/10nyuyoku.aux
-) (./11/11utage.aux) (./12/12zenjitu_junbi.aux) (./13/13hone_talk.aux)
+) (./11/11utage.aux) (./12/12zenjitu_junbi.aux) (./13/13honne.aux)
 (./14/14utiawase.aux) (./15/15syushin.aux) (./16/16kisyo.aux)
 (./17/17asanotudoi.aux) (./18/18tyosyoku.aux) (./19/19tyosyokugonougoki.aux)
 (./10/20.aux) (./21/21ice_breaking.aux) (./22/22tsumutsumu.aux) (./23/23.aux)
@@ -569,17 +555,14 @@ See the caption package documentation for explanation.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 2605 strings out of 493653
- 40954 string characters out of 6148875
- 124940 words of memory out of 5000000
- 5957 multiletter control sequences out of 15000+600000
+ 2603 strings out of 493653
+ 40914 string characters out of 6148875
+ 125965 words of memory out of 5000000
+ 5953 multiletter control sequences out of 15000+600000
  11583 words of font info for 47 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 38i,12n,41p,384b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,12n,41p,384b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on document.dvi (72 pages, 223708 bytes).
+Output written on document.dvi (70 pages, 211068 bytes).
