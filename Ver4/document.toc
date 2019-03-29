@@ -74,7 +74,7 @@
 \contentsline {subsection}{\numberline {9.7}全体配置(雨)}{37}
 \contentsline {subsection}{\numberline {9.8}注意事項}{37}
 \contentsline {subsection}{\numberline {9.9}レシピ}{38}
-\contentsline {subsection}{\numberline {9.10}備考}{39}
+\contentsline {subsection}{\numberline {9.10}備考}{38}
 \contentsline {section}{\numberline {10}入浴}{40}
 \contentsline {subsection}{\numberline {10.1}日時・場所}{40}
 \contentsline {subsection}{\numberline {10.2}目的}{40}
