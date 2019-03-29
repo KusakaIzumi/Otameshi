@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.2-161114-2.6 (sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2017.9.10)  28 MAR 2019 10:38
+This is e-pTeX, Version 3.14159265-p3.7.2-161114-2.6 (sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2017.9.10)  28 MAR 2019 23:36
 entering extended mode
  \write18 enabled.
  Source specials enabled.
@@ -185,9 +185,9 @@ Package: mediabb 2013/03/12 v1.10 iNOUE Koich! <inoue@ma.ns.tcu.ac.jp>
 ) (./11/11utage.aux) (./12/12zenjitu_junbi.aux) (./13/13honne.aux)
 (./14/14utiawase.aux) (./15/15syushin.aux) (./16/16kisyo.aux)
 (./17/17asanotudoi.aux) (./18/18tyosyoku.aux) (./19/19tyosyokugonougoki.aux)
-(./10/20.aux) (./21/21ice_breaking.aux) (./22/22tsumutsumu.aux) (./23/23.aux)
-(./24/24hyosyosiki_taisyosiki.aux) (./25/25tyusyoku.aux) (./26/26bus_kaeri.aux)
-(./27/27kataduke.aux) (./28/28daigaku_totyakugo.aux))
+(./20/20urakata.aux) (./21/21ice_breaking.aux) (./22/22tsumutsumu.aux)
+(./23/23.aux) (./24/24hyosyosiki_taisyosiki.aux) (./25/25tyusyoku.aux)
+(./26/26bus_kaeri.aux) (./27/27kataduke.aux) (./28/28daigaku_totyakugo.aux))
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -294,7 +294,7 @@ File: ./03/nimotsu.eps Graphic file (type eps)
 File: ./03/situ.eps Graphic file (type eps)
 <./03/situ.eps>
 
-Overfull \hbox (56.93529pt too wide) in paragraph at lines 139--141
+Overfull \hbox (56.90903pt too wide) in paragraph at lines 139--141
  [] 
  []
 
@@ -435,16 +435,10 @@ File: ./16/futon_katazuke.eps Graphic file (type eps)
 ] [55]
 File: ./17/asanotudoihaiti.eps Graphic file (type eps)
 <./17/asanotudoihaiti.eps>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: ./17/asanozu.eps Graphic file (type eps)
 <./17/asanozu.eps>
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [56] [57]
+[56]) [57]
 \openout2 = `./18/18tyosyoku.aux'.
 
  (./18/18tyosyoku.tex) [58
@@ -454,105 +448,86 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \openout2 = `./19/19tyosyokugonougoki.aux'.
 
  (./19/19tyosyokugonougoki.tex
-Underfull \hbox (badness 2376) in paragraph at lines 28--30
-[]|  \OMS/cmsy/m/n/10 ^^O  \JY1/mc/m/n/10 体育館でプラカ ードを持つスタ ッ フ \
-OT1/cmr/m/n/10 (???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/
-cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m
-/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10
- ???,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-[]|  \OMS/cmsy/m/n/10 ^^O  \JY1/mc/m/n/10 体育館に移動する前に ， 宿泊棟から体
-育館への誘導係
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 (???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1
-/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/
-m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/1
-0 ???\JY1/mc/m/n/10 ， \OT1/cmr/m/n/10 ???) \JY1/mc/m/n/10 は ， 新入生に体育館
-にしおりと筆記用
- []
-
 
 LaTeX Warning: Reference `fig:ice' on page 59 undefined on input line 47.
 
 [59
 
 
-] [60]
-File: ./19/Eventhanwake.eps Graphic file (type eps)
-<./19/Eventhanwake.eps>
-File: ./19/nimotu2.eps Graphic file (type eps)
-<./19/nimotu2.eps>
-) [61]
-\openout2 = `./10/20.aux'.
+]
+File: ./19/event_hanwake.eps Graphic file (type eps)
+<./19/event_hanwake.eps>
+) [60]
+\openout2 = `./20/20urakata.aux'.
+
+ (./20/20urakata.tex) [61
 
 
-No file ./10/20.tex.
+]
 \openout2 = `./21/21ice_breaking.aux'.
 
-No file ./21/21ice_breaking.tex.
-\openout2 = `./22/22tsumutsumu.aux'.
-
-No file ./22/22tsumutsumu.tex.
-\openout2 = `./23/23.aux'.
-
-(./23/23.tex
-File: ./23/tudoi.eps Graphic file (type eps)
-<./23/tudoi.eps>
+ (./21/21ice_breaking.tex
+File: ./21/reiout1.eps Graphic file (type eps)
+<./21/reiout1.eps>
  [62
 
 
-
-
-
-
-
-
 ]) [63]
+\openout2 = `./22/22paperdomino.aux'.
+
+
+(./22/22paperdomino.tex [64
+
+
+]) [65]
+\openout2 = `./23/23.aux'.
+
+ (./23/23.tex
+File: ./23/tudoi.eps Graphic file (type eps)
+<./23/tudoi.eps>
+ [66
+
+
+]) [67]
 \openout2 = `./24/24hyosyosiki_taisyosiki.aux'.
 
- (./24/24hyosyosiki_taisyosiki.tex [64
+
+(./24/24hyosyosiki_taisyosiki.tex [68
 
 
 ]
 File: ./24/hyosyosiki_taisyosiki.eps Graphic file (type eps)
 <./24/hyosyosiki_taisyosiki.eps>
-) [65]
+) [69]
 \openout2 = `./25/25tyusyoku.aux'.
 
+ (./25/25tyusyoku.tex [70
 
-(./25/25tyusyoku.tex [66
 
-
-]) [67]
+])
+[71]
 \openout2 = `./26/26bus_kaeri.aux'.
 
- (./26/26bus_kaeri.tex [68
+ (./26/26bus_kaeri.tex [72
 
 
-]) [69]
+]) [73]
 \openout2 = `./27/27kataduke.aux'.
 
-
-(./27/27kataduke.tex
+ (./27/27kataduke.tex
 File: ./27/syomenhiromacar.eps Graphic file (type eps)
 <./27/syomenhiromacar.eps>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [70
+) [74
 
 
-] [71]
+] [75]
 \openout2 = `./28/28daigaku_totyakugo.aux'.
 
- (./28/28daigaku_totyakugo.tex) [72
+ (./28/28daigaku_totyakugo.tex) [76
 
 
 ]
@@ -567,9 +542,9 @@ See the caption package documentation for explanation.
 ) (./11/11utage.aux) (./12/12zenjitu_junbi.aux) (./13/13honne.aux)
 (./14/14utiawase.aux) (./15/15syushin.aux) (./16/16kisyo.aux)
 (./17/17asanotudoi.aux) (./18/18tyosyoku.aux) (./19/19tyosyokugonougoki.aux)
-(./10/20.aux) (./21/21ice_breaking.aux) (./22/22tsumutsumu.aux) (./23/23.aux)
-(./24/24hyosyosiki_taisyosiki.aux) (./25/25tyusyoku.aux) (./26/26bus_kaeri.aux)
-(./27/27kataduke.aux) (./28/28daigaku_totyakugo.aux))
+(./20/20urakata.aux) (./21/21ice_breaking.aux) (./22/22paperdomino.aux)
+(./23/23.aux) (./24/24hyosyosiki_taisyosiki.aux) (./25/25tyusyoku.aux)
+(./26/26bus_kaeri.aux) (./27/27kataduke.aux) (./28/28daigaku_totyakugo.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -578,12 +553,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 2645 strings out of 493635
- 41731 string characters out of 6150297
- 125809 words of memory out of 5000000
- 5992 multiletter control sequences out of 15000+600000
- 11583 words of font info for 47 fonts, out of 8000000 for 9000
+ 2655 strings out of 493635
+ 41938 string characters out of 6150297
+ 125803 words of memory out of 5000000
+ 5993 multiletter control sequences out of 15000+600000
+ 11751 words of font info for 48 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  38i,12n,41p,2968b,479s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on document.dvi (72 pages, 263408 bytes).
+Output written on document.dvi (76 pages, 272112 bytes).
