@@ -64,8 +64,8 @@
 \contentsline {subsection}{\numberline {9.1}日時・場所}{33}
 \contentsline {subsection}{\numberline {9.2}目的}{33}
 \contentsline {subsection}{\numberline {9.3}タイムスケジュール}{33}
-\contentsline {subsection}{\numberline {9.4}人員配置}{35}
-\contentsline {subsubsection}{\numberline {9.4.1}スタッフの役割}{35}
+\contentsline {subsection}{\numberline {9.4}人員配置}{34}
+\contentsline {subsubsection}{\numberline {9.4.1}スタッフの役割}{34}
 \contentsline {subsubsection}{\numberline {9.4.2}班の割り当て}{35}
 \contentsline {subsubsection}{\numberline {9.4.3}班内の役割(目安)}{35}
 \contentsline {subsubsection}{\numberline {9.4.4}野外炊事班}{36}
