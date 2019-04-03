@@ -208,7 +208,7 @@
 \contentsline {subsection}{\numberline {27.3}タイムスケジュール}{81}
 \contentsline {subsection}{\numberline {27.4}人員配置}{81}
 \contentsline {subsection}{\numberline {27.5}必要物品}{81}
-\contentsline {subsection}{\numberline {27.6}備考}{81}
+\contentsline {subsection}{\numberline {27.6}備考}{82}
 \contentsline {section}{\numberline {28}大学到着後}{83}
 \contentsline {subsection}{\numberline {28.1}日時・場所}{83}
 \contentsline {subsection}{\numberline {28.2}タイムスケジュール}{83}
